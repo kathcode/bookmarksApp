@@ -1,4 +1,4 @@
-# bookmarksApp
+# Bookmarks App
 
 Steps:
 
